@@ -1,11 +1,11 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 0
 "../../../../../../../Ue4 Projects/NeonGold/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/CharSheet.uasset" 3
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/Arrow.uasset" 4
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/pizza.uasset" 5
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/Pixeboy-z8XGD.uasset" 6
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/Pixeboy-z8XGD_Font.uasset" 7
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/pizza.uasset" 3
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/Pixeboy-z8XGD.uasset" 4
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/Pixeboy-z8XGD_Font.uasset" 5
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/CharSheet.uasset" 6
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/Arrow.uasset" 7
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/UI/W_MainHUD.uasset" 8
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Textrures/UI/NeonLogo.uasset" 9
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/UI/W_Credits04.uasset" 10
@@ -13,389 +13,389 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/UI/W_Credits02.uasset" 12
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/UI/W_Credits01.uasset" 13
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/UI/HUD_Neon.uasset" 14
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 15
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_SciFiCity_Skeleton.uasset" 16
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 17
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 18
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/IN_PLACE/ANIM_TALK_WHILE_WALKING_V4_ON_THE_LEFT_SIDE_600cm_IN_PLACE.uasset" 19
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/IN_PLACE/ANIM_TALK_WHILE_WALKING_V1_ON_THE_RIGHT_SIDE_480cm_IN_PLACE.uasset" 20
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/IN_PLACE/ANIM_NORMAL_WALKING_120cm_IN_PLACE.uasset" 21
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_SciFiCity_PhysicsAsset.uasset" 22
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Roughness.uasset" 23
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Normal.uasset" 24
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Metallic.uasset" 25
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonScifi_Emissive_01.uasset" 26
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonScifi_01_A.uasset" 27
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Mat_PolygonScifi_01_A.uasset" 28
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Muscle_Male_01.uasset" 29
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Junky_Male_01.uasset" 30
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Junky_Female_01.uasset" 31
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Android_Female_01.uasset" 32
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_CrowdRail.uasset" 33
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendScreen.uasset" 34
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendOverlay.uasset" 35
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendMultiply.uasset" 36
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendLighten.uasset" 37
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendDarken.uasset" 38
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_White.uasset" 39
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 40
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 41
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_SoftLight.uasset" 42
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_PinLight.uasset" 43
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearLight.uasset" 44
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearDodge.uasset" 45
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearBurn.uasset" 46
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_HardLight.uasset" 47
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Exclusion.uasset" 48
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Difference.uasset" 49
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorDodge.uasset" 50
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn.uasset" 51
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 52
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 53
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 54
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_SetBlending.uasset" 55
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_DepthOnlyMasking.uasset" 56
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ChannelClamper.uasset" 57
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/Vector2DN.uasset" 58
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/BlendModes.uasset" 59
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/AdvancedEffectFeatures.uasset" 60
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/AdvancedEffectFeaturesNoCustomDepth.uasset" 61
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Curves/C_DistanceToSizeLogo.uasset" 62
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/LOOKCGStruct.uasset" 63
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Winter.uasset" 64
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Underwater.uasset" 65
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Lightning.uasset" 66
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Late_Sunset.uasset" 67
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Heavy_Sunset.uasset" 68
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Everest_M.uasset" 69
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Everest_L.uasset" 70
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Everest_H.uasset" 71
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Lighting_Moonlight.uasset" 72
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Lighting_Day_to_Night.uasset" 73
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Lighting_Candle_Light.uasset" 74
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Rogue.uasset" 75
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Pandora.uasset" 76
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Nature_Rise.uasset" 77
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Middle_Earth.uasset" 78
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Last_hope.uasset" 79
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Horror_Night.uasset" 80
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Holy_TealOrange.uasset" 81
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Hazard.uasset" 82
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Hacker_Room.uasset" 83
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Golden_Age.uasset" 84
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Gladiators.uasset" 85
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Futurama.uasset" 86
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_First_Date.uasset" 87
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Cold_Blood_Murderer.uasset" 88
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Abduction.uasset" 89
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA9.uasset" 90
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA8.uasset" 91
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_4.uasset" 92
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_3.uasset" 93
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_2.uasset" 94
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_1.uasset" 95
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA6.uasset" 96
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA5.uasset" 97
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2395_2.uasset" 98
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2395_1.uasset" 99
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2393_2.uasset" 100
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2393_1.uasset" 101
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2383.uasset" 102
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodachrome.uasset" 103
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_JR45.uasset" 104
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_General_Filmstock.uasset" 105
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Fuj_3510_3.uasset" 106
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Fuj_3510_2.uasset" 107
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Fuj_3510_1.uasset" 108
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Film2Vid_2.uasset" 109
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Film2Vid_1.uasset" 110
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Cineon.uasset" 111
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Bleach_Bypass.uasset" 112
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_3_Strip.uasset" 113
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam7.uasset" 114
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam6.uasset" 115
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam5.uasset" 116
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam4.uasset" 117
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam3.uasset" 118
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam2.uasset" 119
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam1.uasset" 120
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Saturate3.uasset" 121
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Saturate2.uasset" 122
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Saturate1.uasset" 123
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Posterize1.uasset" 124
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old4.uasset" 125
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old3.uasset" 126
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old2.uasset" 127
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old1.uasset" 128
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie7.uasset" 129
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie6.uasset" 130
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie5.uasset" 131
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie4.uasset" 132
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie3.uasset" 133
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie2.uasset" 134
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie1.uasset" 135
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono9.uasset" 136
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono8.uasset" 137
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono7.uasset" 138
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono6.uasset" 139
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono5.uasset" 140
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono4.uasset" 141
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono3.uasset" 142
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono2.uasset" 143
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono10.uasset" 144
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono1.uasset" 145
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_InvertGray.uasset" 146
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Invert.uasset" 147
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_FakeHDR3.uasset" 148
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_FakeHDR2.uasset" 149
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_FakeHDR1.uasset" 150
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance9.uasset" 151
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance8.uasset" 152
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance7.uasset" 153
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance6.uasset" 154
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance5.uasset" 155
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance4.uasset" 156
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance3.uasset" 157
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance2.uasset" 158
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance10.uasset" 159
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance1.uasset" 160
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw9.uasset" 161
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw8.uasset" 162
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw7.uasset" 163
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw6.uasset" 164
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw5.uasset" 165
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw4.uasset" 166
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw3.uasset" 167
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw2.uasset" 168
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw1.uasset" 169
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark8.uasset" 170
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark7.uasset" 171
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark6.uasset" 172
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark5.uasset" 173
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark4.uasset" 174
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark3.uasset" 175
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark2.uasset" 176
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark1.uasset" 177
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color6.uasset" 178
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color5.uasset" 179
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color4.uasset" 180
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color3.uasset" 181
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color2.uasset" 182
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color1.uasset" 183
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerYellow.uasset" 184
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerRed.uasset" 185
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerPurple.uasset" 186
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerOrange.uasset" 187
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerGreen.uasset" 188
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerBlue.uasset" 189
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic9.uasset" 190
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic8.uasset" 191
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic7.uasset" 192
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic6.uasset" 193
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic5.uasset" 194
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic4.uasset" 195
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic3.uasset" 196
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic2.uasset" 197
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic14.uasset" 198
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic13.uasset" 199
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic12.uasset" 200
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic11.uasset" 201
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic10.uasset" 202
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic1.uasset" 203
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Bloom3.uasset" 204
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Bloom2.uasset" 205
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Bloom1.uasset" 206
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize6.uasset" 207
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerAqua.uasset" 208
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize5.uasset" 209
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize4.uasset" 210
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize3.uasset" 211
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize2.uasset" 212
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize1.uasset" 213
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/DataTables/LOOK_Presets.uasset" 214
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_FXBlur.uasset" 215
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 216
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ActorFeaturette.uasset" 217
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 218
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 219
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 220
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Alarm.uasset" 221
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 222
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 223
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float3.uasset" 224
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Alcohol.uasset" 225
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_AnamorphicLensFlares.uasset" 226
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/Vector3DN.uasset" 227
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/PanTextureCoordinateChannelfrom-1toN+1.uasset" 228
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/PanTextureCoordinateFrom-1toN+1.uasset" 229
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 230
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 231
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Math/SmoothCeil.uasset" 232
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_2DTransform.uasset" 233
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 234
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_AsciiHLSL.uasset" 235
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 236
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_BleachBypass.uasset" 237
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_BlurHLSL.uasset" 238
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CameraShake.uasset" 239
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Sonar.uasset" 240
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Noise.uasset" 241
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Speedlines.uasset" 242
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Squares.uasset" 243
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Tiles.uasset" 244
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ToonShading.uasset" 245
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_TVNoise.uasset" 246
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Wired.uasset" 247
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_WorldGlitch.uasset" 248
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_WorldSplash.uasset" 249
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Zone.uasset" 250
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/colorChannels.uasset" 251
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/DrawingNoiseModes.uasset" 252
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/LOOKPresetsEnum.uasset" 253
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask13.uasset" 254
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask4.uasset" 255
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask5.uasset" 256
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask7.uasset" 257
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Black.uasset" 258
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_BloodDrops.uasset" 259
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_BulletHole.uasset" 260
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_CobbleStone_Pebble_N.uasset" 261
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 262
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ChannelSwapper.uasset" 263
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Circles.uasset" 264
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ColorIndexer.uasset" 265
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ColoredAO.uasset" 266
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_FXHSVLimiter.uasset" 267
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ColorizeHLSL.uasset" 268
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ComicEdgeHLSL.uasset" 269
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CustomDepthHighlighter.uasset" 270
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CustomDepthHighlighterClip.uasset" 271
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/5PixelColors.uasset" 272
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 273
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Greyscale.uasset" 274
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Gradient.uasset" 275
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Gradients/GradientMap_Multi.uasset" 276
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CyberScan.uasset" 277
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Digitize.uasset" 278
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_DiscoBall.uasset" 279
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.uasset" 280
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_DistanceDistortion.uasset" 281
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_DistanceFog.uasset" 282
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Bayer.uasset" 283
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Dither.uasset" 284
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Drawing.uasset" 285
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Drug.uasset" 286
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 287
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_EdgeDetect3x3HLSL.uasset" 288
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_ChameleonLogoTransparent.uasset" 289
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Editor_ChameleonIcon.uasset" 290
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Emboss3x3HLSL.uasset" 291
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_MossyWood.uasset" 292
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Frost.uasset" 293
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_GlitchHLSL.uasset" 294
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_GradientFog.uasset" 295
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_GridCell.uasset" 296
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_HardEmbossHLSL.uasset" 297
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 298
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 299
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/WorldCoordinate3Way.uasset" 300
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Organic03.uasset" 301
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Haunted.uasset" 302
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 303
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_HazyLights.uasset" 304
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_HUEPanner.uasset" 305
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Infected.uasset" 306
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 307
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Invert.uasset" 308
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Iridescent.uasset" 309
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 310
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Kaleidescope.uasset" 311
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 312
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Kuwahara.uasset" 313
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_ScopePlaceholder.uasset" 314
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_LensDistortion.uasset" 315
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Letterboxing.uasset" 316
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask1.uasset" 317
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_GameOver.uasset" 318
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MagicTransitions.uasset" 319
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MeltedWorld.uasset" 320
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask3.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 322
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask19.uasset" 323
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 324
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 325
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Mojo.uasset" 326
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MonitorEffects.uasset" 327
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MonochromeHLSL.uasset" 328
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MosaicTile.uasset" 329
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_NoiseDspatial.uasset" 330
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 331
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Neon.uasset" 332
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_PixelDissolve.uasset" 333
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Pulse.uasset" 334
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Pyramid.uasset" 335
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_RadialBlurHLSL.uasset" 336
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScratchesHLSL.uasset" 337
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask9.uasset" 338
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-2D.uasset" 339
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenDamage.uasset" 340
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenDecals.uasset" 341
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_ShadowRocks2.uasset" 342
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_WaterDrops.uasset" 343
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Screendrops.uasset" 344
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenDrops.uasset" 345
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 346
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenFire.uasset" 347
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Snow.uasset" 348
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenWavesHLSL.uasset" 349
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 350
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 351
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 352
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 353
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 354
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 355
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 356
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_SelectiveColor.uasset" 357
-"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Sphere.uasset" 358
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Sketch.uasset" 359
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Sharpen.uasset" 360
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Paper2.uasset" 361
-"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Chameleon.uasset" 362
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/PlayerRail.uasset" 363
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_Speedbox.uasset" 364
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_SceneCam.uasset" 365
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Cinematic/EndingSequence.uasset" 366
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/GC/Neon_GS.uasset" 367
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Default.uasset" 368
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_SphereGeo.uasset" 369
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Particles/FX_Exhaust.uasset" 370
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Sweepo_01_Skeleton.uasset" 371
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Sweepo_01_PhysicsAsset.uasset" 372
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Vehicle_Glass.uasset" 373
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Sweepo_01.uasset" 374
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Hover_Skeleton.uasset" 375
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Hover_PhysicsAsset.uasset" 376
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Hover.uasset" 377
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Taxi_01_Skeleton.uasset" 378
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Taxi_01_PhysicsAsset.uasset" 379
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Taxi_01.uasset" 380
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Cop_01_Skeleton.uasset" 381
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Cop_01_PhysicsAsset.uasset" 382
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Cop_01.uasset" 383
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_01_Skeleton.uasset" 384
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_01_PhysicsAsset.uasset" 385
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_01.uasset" 386
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 387
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 388
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 389
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 390
-"../../../Engine/Content/BasicShapes/Cube.uasset" 391
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 392
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving__StreetSweaper_.uasset" 393
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Police.uasset" 394
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Honk.uasset" 395
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Default.uasset" 396
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_GroundCar.uasset" 397
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/GC/Neon_GS.uasset" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 17
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 18
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_SoftLight.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_PinLight.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearLight.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearDodge.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearBurn.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_HardLight.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Exclusion.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Difference.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorDodge.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 31
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_White.uasset" 32
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendScreen.uasset" 33
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendOverlay.uasset" 34
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendMultiply.uasset" 35
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendLighten.uasset" 36
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_BlendDarken.uasset" 37
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_SetBlending.uasset" 38
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_DepthOnlyMasking.uasset" 39
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_RadialBlurHLSL.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 41
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_AnamorphicLensFlares.uasset" 42
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 43
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_BleachBypass.uasset" 44
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_FXBlur.uasset" 45
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_BlurHLSL.uasset" 46
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CameraShake.uasset" 47
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ChannelClamper.uasset" 48
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 49
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ChannelSwapper.uasset" 50
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Circles.uasset" 51
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ColoredAO.uasset" 52
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ColorIndexer.uasset" 53
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/MaterialFunctions/MF_FXHSVLimiter.uasset" 54
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ColorizeHLSL.uasset" 55
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 56
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_AsciiHLSL.uasset" 57
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CustomDepthHighlighter.uasset" 58
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CustomDepthHighlighterClip.uasset" 59
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/5PixelColors.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Greyscale.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Gradient.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Gradients/GradientMap_Multi.uasset" 64
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_CyberScan.uasset" 65
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Digitize.uasset" 66
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_DiscoBall.uasset" 67
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.uasset" 68
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_DistanceDistortion.uasset" 69
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ComicEdgeHLSL.uasset" 70
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Bayer.uasset" 71
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Dither.uasset" 72
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 73
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Drawing.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float3.uasset" 76
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Drug.uasset" 77
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 78
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_EdgeDetect3x3HLSL.uasset" 79
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_ChameleonLogoTransparent.uasset" 80
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Editor_ChameleonIcon.uasset" 81
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Emboss3x3HLSL.uasset" 82
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_MossyWood.uasset" 83
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Frost.uasset" 84
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_GlitchHLSL.uasset" 85
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Noise.uasset" 86
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_GradientFog.uasset" 87
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_GridCell.uasset" 88
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_HardEmbossHLSL.uasset" 89
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 90
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 91
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/WorldCoordinate3Way.uasset" 92
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Organic03.uasset" 93
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Haunted.uasset" 94
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 95
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_HazyLights.uasset" 96
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_HUEPanner.uasset" 97
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Infected.uasset" 98
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 99
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Invert.uasset" 100
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Iridescent.uasset" 101
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 102
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 103
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Kaleidescope.uasset" 104
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 105
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Kuwahara.uasset" 106
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_ScopePlaceholder.uasset" 107
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_LensDistortion.uasset" 108
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Black.uasset" 109
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Letterboxing.uasset" 110
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask3.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 112
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask19.uasset" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 115
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Mojo.uasset" 116
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MonitorEffects.uasset" 117
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MonochromeHLSL.uasset" 118
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MosaicTile.uasset" 119
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask1.uasset" 120
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_GameOver.uasset" 121
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MagicTransitions.uasset" 122
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_MeltedWorld.uasset" 123
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_NoiseDspatial.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 125
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Neon.uasset" 126
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_PixelDissolve.uasset" 127
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Pulse.uasset" 128
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_DistanceFog.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 130
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Alcohol.uasset" 131
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Pyramid.uasset" 132
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/Vector2DN.uasset" 133
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/BlendModes.uasset" 134
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/AdvancedEffectFeatures.uasset" 135
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/AdvancedEffectFeaturesNoCustomDepth.uasset" 136
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Curves/C_DistanceToSizeLogo.uasset" 137
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/Vector3DN.uasset" 138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/PanTextureCoordinateChannelfrom-1toN+1.uasset" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/PanTextureCoordinateFrom-1toN+1.uasset" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Math/SmoothCeil.uasset" 143
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_2DTransform.uasset" 144
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ActorFeaturette.uasset" 145
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Alarm.uasset" 146
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Structures/LOOKCGStruct.uasset" 147
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Winter.uasset" 148
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Underwater.uasset" 149
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Lightning.uasset" 150
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Late_Sunset.uasset" 151
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Heavy_Sunset.uasset" 152
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Everest_M.uasset" 153
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Everest_L.uasset" 154
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Weather_Everest_H.uasset" 155
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Lighting_Moonlight.uasset" 156
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Lighting_Day_to_Night.uasset" 157
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Lighting_Candle_Light.uasset" 158
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Rogue.uasset" 159
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Pandora.uasset" 160
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Nature_Rise.uasset" 161
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Middle_Earth.uasset" 162
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Last_hope.uasset" 163
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Horror_Night.uasset" 164
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Holy_TealOrange.uasset" 165
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Hazard.uasset" 166
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Hacker_Room.uasset" 167
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Golden_Age.uasset" 168
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Gladiators.uasset" 169
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Futurama.uasset" 170
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_First_Date.uasset" 171
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Cold_Blood_Murderer.uasset" 172
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Filmic_Abduction.uasset" 173
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA9.uasset" 174
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA8.uasset" 175
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_4.uasset" 176
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_3.uasset" 177
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_2.uasset" 178
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA7_1.uasset" 179
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA6.uasset" 180
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_SA5.uasset" 181
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2395_2.uasset" 182
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2395_1.uasset" 183
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2393_2.uasset" 184
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2393_1.uasset" 185
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodk_2383.uasset" 186
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Kodachrome.uasset" 187
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_JR45.uasset" 188
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_General_Filmstock.uasset" 189
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Fuj_3510_3.uasset" 190
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Fuj_3510_2.uasset" 191
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Fuj_3510_1.uasset" 192
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Film2Vid_2.uasset" 193
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Film2Vid_1.uasset" 194
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Cineon.uasset" 195
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_Bleach_Bypass.uasset" 196
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_U1_Emulation_3_Strip.uasset" 197
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam7.uasset" 198
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam6.uasset" 199
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam5.uasset" 200
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam4.uasset" 201
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam3.uasset" 202
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam2.uasset" 203
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Steam1.uasset" 204
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Saturate3.uasset" 205
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Saturate2.uasset" 206
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Saturate1.uasset" 207
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Posterize1.uasset" 208
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old4.uasset" 209
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old3.uasset" 210
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old2.uasset" 211
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Old1.uasset" 212
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie7.uasset" 213
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie6.uasset" 214
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie5.uasset" 215
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie4.uasset" 216
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie3.uasset" 217
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie2.uasset" 218
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Movie1.uasset" 219
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono9.uasset" 220
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono8.uasset" 221
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono7.uasset" 222
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono6.uasset" 223
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono5.uasset" 224
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono4.uasset" 225
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono3.uasset" 226
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono2.uasset" 227
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono10.uasset" 228
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Mono1.uasset" 229
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_InvertGray.uasset" 230
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Invert.uasset" 231
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_FakeHDR3.uasset" 232
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_FakeHDR2.uasset" 233
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_FakeHDR1.uasset" 234
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance9.uasset" 235
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance8.uasset" 236
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance7.uasset" 237
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance6.uasset" 238
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance5.uasset" 239
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance4.uasset" 240
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance3.uasset" 241
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance2.uasset" 242
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance10.uasset" 243
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Enhance1.uasset" 244
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw9.uasset" 245
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw8.uasset" 246
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw7.uasset" 247
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw6.uasset" 248
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw5.uasset" 249
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw4.uasset" 250
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw3.uasset" 251
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw2.uasset" 252
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Draw1.uasset" 253
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark8.uasset" 254
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark7.uasset" 255
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark6.uasset" 256
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark5.uasset" 257
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark4.uasset" 258
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark3.uasset" 259
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark2.uasset" 260
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Dark1.uasset" 261
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color6.uasset" 262
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color5.uasset" 263
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color4.uasset" 264
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color3.uasset" 265
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color2.uasset" 266
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Color1.uasset" 267
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerYellow.uasset" 268
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerRed.uasset" 269
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerPurple.uasset" 270
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerOrange.uasset" 271
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerGreen.uasset" 272
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerBlue.uasset" 273
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic9.uasset" 274
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic8.uasset" 275
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic7.uasset" 276
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic6.uasset" 277
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic5.uasset" 278
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic4.uasset" 279
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic3.uasset" 280
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic2.uasset" 281
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic14.uasset" 282
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic13.uasset" 283
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic12.uasset" 284
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic11.uasset" 285
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic10.uasset" 286
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Classic1.uasset" 287
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Bloom3.uasset" 288
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Bloom2.uasset" 289
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Bloom1.uasset" 290
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize6.uasset" 291
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_CLayerAqua.uasset" 292
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize5.uasset" 293
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize4.uasset" 294
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize3.uasset" 295
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize2.uasset" 296
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/LUTs/LUT_Alienize1.uasset" 297
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/DataTables/LOOK_Presets.uasset" 298
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScratchesHLSL.uasset" 299
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask9.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-2D.uasset" 301
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenDamage.uasset" 302
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_BulletHole.uasset" 303
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenDecals.uasset" 304
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_ShadowRocks2.uasset" 305
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_WaterDrops.uasset" 306
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Screendrops.uasset" 307
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_CobbleStone_Pebble_N.uasset" 308
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenDrops.uasset" 309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 310
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenFire.uasset" 311
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ScreenWavesHLSL.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 316
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 319
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_SelectiveColor.uasset" 320
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Sharpen.uasset" 321
+"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Sphere.uasset" 322
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Sketch.uasset" 323
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Snow.uasset" 324
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Sonar.uasset" 325
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Speedlines.uasset" 326
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Squares.uasset" 327
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Tiles.uasset" 328
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_ToonShading.uasset" 329
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_TVNoise.uasset" 330
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Wired.uasset" 331
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_WorldGlitch.uasset" 332
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_WorldSplash.uasset" 333
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Materials/M_Zone.uasset" 334
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/colorChannels.uasset" 335
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/DrawingNoiseModes.uasset" 336
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Enums/LOOKPresetsEnum.uasset" 337
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask13.uasset" 338
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_Paper2.uasset" 339
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/T_BloodDrops.uasset" 340
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask7.uasset" 341
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask5.uasset" 342
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Textures/2K_Masks/T_Mask4.uasset" 343
+"../../../../../../../Ue4 Projects/NeonGold/Content/Chameleon/Chameleon.uasset" 344
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/PlayerRail.uasset" 345
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_Speedbox.uasset" 346
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_SceneCam.uasset" 347
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Cinematic/EndingSequence.uasset" 348
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Default.uasset" 349
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_SphereGeo.uasset" 350
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Particles/FX_Exhaust.uasset" 351
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Sweepo_01_Skeleton.uasset" 352
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Sweepo_01_PhysicsAsset.uasset" 353
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Normal.uasset" 354
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonScifi_Emissive_01.uasset" 355
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Vehicle_Glass.uasset" 356
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Roughness.uasset" 357
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Metallic.uasset" 358
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonScifi_01_A.uasset" 359
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Mat_PolygonScifi_01_A.uasset" 360
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Sweepo_01.uasset" 361
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Hover_Skeleton.uasset" 362
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Hover_PhysicsAsset.uasset" 363
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Hover.uasset" 364
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Taxi_01_Skeleton.uasset" 365
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Taxi_01_PhysicsAsset.uasset" 366
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Taxi_01.uasset" 367
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Cop_01_Skeleton.uasset" 368
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Cop_01_PhysicsAsset.uasset" 369
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_Cop_01.uasset" 370
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_01_Skeleton.uasset" 371
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_01_PhysicsAsset.uasset" 372
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Future_01.uasset" 373
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 374
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 375
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 376
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 377
+"../../../Engine/Content/BasicShapes/Cube.uasset" 378
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 379
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving__StreetSweaper_.uasset" 380
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Police.uasset" 381
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Honk.uasset" 382
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Default.uasset" 383
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_GroundCar.uasset" 384
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_SciFiCity_PhysicsAsset.uasset" 385
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 386
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_SciFiCity_Skeleton.uasset" 387
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Muscle_Male_01.uasset" 388
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Junky_Male_01.uasset" 389
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Junky_Female_01.uasset" 390
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Android_Female_01.uasset" 391
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 392
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 393
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/IN_PLACE/ANIM_TALK_WHILE_WALKING_V4_ON_THE_LEFT_SIDE_600cm_IN_PLACE.uasset" 394
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/IN_PLACE/ANIM_TALK_WHILE_WALKING_V1_ON_THE_RIGHT_SIDE_480cm_IN_PLACE.uasset" 395
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/IN_PLACE/ANIM_NORMAL_WALKING_120cm_IN_PLACE.uasset" 396
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_CrowdRail.uasset" 397
 "../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Hologram_Pizza_01.uasset" 398
 "../../../../../../../Ue4 Projects/NeonGold/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 399
 "../../../../../../../Ue4 Projects/NeonGold/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 400
@@ -444,11 +444,11 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 443
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_GC.uasset" 444
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/GC/Neon_PC.uasset" 445
-"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 446
-"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Meshes/BaseMaterial.uasset" 447
-"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 448
-"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 449
-"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 450
+"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Meshes/BaseMaterial.uasset" 446
+"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 447
+"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 448
+"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 449
+"../../../../../../../Ue4 Projects/NeonGold/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 450
 "../../../../../../../Ue4 Projects/NeonGold/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 451
 "../../../../../../../Ue4 Projects/NeonGold/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 452
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Banks/Ambaince.uasset" 453
@@ -461,8 +461,8 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Buses/Rain_1.uasset" 460
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Buses/Rain_Under.uasset" 461
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Buses/Reverb.uasset" 462
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/People_STEPS.uasset" 463
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Peope_stepping.uasset" 464
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Peope_stepping.uasset" 463
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/People_STEPS.uasset" 464
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cars/Car_Driving_Truck.uasset" 465
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cat_Stuff/Cat_Stp.uasset" 466
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Cat_Stuff/Cat_Stps.uasset" 467
@@ -475,9 +475,9 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/People_ambiance/People_STEPS.uasset" 474
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/People_ambiance/People_talking_Group_1.uasset" 475
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/People_ambiance/People_talking_Group_2.uasset" 476
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Snapshots/Rain_Underpassd.uasset" 477
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset" 478
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/PrivateIntegrationData/BankLookup.uasset" 479
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset" 477
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/PrivateIntegrationData/BankLookup.uasset" 478
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Snapshots/Rain_Underpassd.uasset" 479
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 480
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 481
 "../../../Engine/Content/BasicShapes/Cone.uasset" 482
@@ -581,12 +581,12 @@
 "../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 580
 "../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 581
 "../../../Engine/Content/EngineResources/GradientTexture0.uasset" 582
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 583
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 584
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 585
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 586
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 587
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 588
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 583
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 584
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 585
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 586
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 587
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 588
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 589
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 590
 "../../../Engine/Content/EngineSounds/Master.uasset" 591
@@ -636,13 +636,13 @@
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 635
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 636
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 637
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 638
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 639
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 640
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 641
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 642
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 643
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 644
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 639
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 640
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 641
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 642
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 643
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 644
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 645
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 646
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 647
@@ -652,31 +652,31 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 651
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 652
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 653
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Cutscene_BuiltData.uasset" 654
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Cutscene.umap" 655
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_AUDIO_BuiltData.uasset" 656
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Rain__Trash_.uasset" 657
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Rain_Underpass.uasset" 658
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Rain.uasset" 659
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Neon_Lights.uasset" 660
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Grilling.uasset" 661
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Bg_Cars.uasset" 662
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_AUDIO.umap" 663
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Crowds_BuiltData.uasset" 664
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Crowds.umap" 665
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Planet_02.uasset" 666
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_Planet_Background.uasset" 667
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_Planet_Background_Inst.uasset" 668
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/Neon_MAP_BuiltData.uasset" 669
-"../../../../../../../Ue4 Projects/NeonGold/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 670
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_WITH_HANDS_BEHIND_HIM_LOOP_V2.uasset" 671
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_WITH_HANDS_BEHIND_HIM_LOOP_V1.uasset" 672
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V6.uasset" 673
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V5.uasset" 674
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V4.uasset" 675
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V2.uasset" 676
-"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V1.uasset" 677
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Hologram_Outlines.uasset" 678
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_AUDIO_BuiltData.uasset" 654
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Rain__Trash_.uasset" 655
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Rain_Underpass.uasset" 656
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Rain.uasset" 657
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Neon_Lights.uasset" 658
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Grilling.uasset" 659
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Bg_Cars.uasset" 660
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_AUDIO.umap" 661
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Crowds_BuiltData.uasset" 662
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Crowds.umap" 663
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Cutscene_BuiltData.uasset" 664
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/MAP_Neon_Cutscene.umap" 665
+"../../../../../../../Ue4 Projects/NeonGold/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 666
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_WITH_HANDS_BEHIND_HIM_LOOP_V2.uasset" 667
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_WITH_HANDS_BEHIND_HIM_LOOP_V1.uasset" 668
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V6.uasset" 669
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V5.uasset" 670
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V4.uasset" 671
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V2.uasset" 672
+"../../../../../../../Ue4 Projects/NeonGold/Content/TALKING_WHILE_WALKING_OR_STANDING/Animations/ANIM_TALKING_WHILE_STANDING_V1.uasset" 673
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Planet_02.uasset" 674
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_Planet_Background.uasset" 675
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_Planet_Background_Inst.uasset" 676
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Hologram_Outlines.uasset" 677
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Shelf_Preset_01.uasset" 678
 "../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset" 679
 "../../../Engine/Content/EngineMeshes/ParticleCube.uasset" 680
 "../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Fire.uasset" 681
@@ -687,384 +687,384 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Particles/FX_Fire.uasset" 686
 "../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_Flame_Mesh.uasset" 687
 "../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Particles/FX_Booster_Flame.uasset" 688
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Disc_01.uasset" 689
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cylinder_01_Lid.uasset" 690
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Couch_01.uasset" 691
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_ControlPanel_02.uasset" 692
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cables_Ceiling_01.uasset" 693
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bank_Booth_Pillar_01.uasset" 694
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_Icon_Gun.uasset" 695
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Wall_Generic_01.uasset" 696
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Shelf_Preset_01.uasset" 697
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_LightBar_01.uasset" 698
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_Floating_Platform_01.uasset" 699
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_Base_02.uasset" 700
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Monk_Male_01.uasset" 701
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Medical_Male_01.uasset" 702
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Garbage_Male_01.uasset" 703
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_CyborgNinja_01.uasset" 704
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_CyberPunk_Male_01.uasset" 705
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Cyber_Female_01.uasset" 706
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Augmented_Male_01.uasset" 707
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Alien_Male_01.uasset" 708
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Security_WatchStation_01_Glass.uasset" 709
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Skeleton.uasset" 710
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_PhysicsAsset.uasset" 711
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01.uasset" 712
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Garbage_01_Skeleton.uasset" 713
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Garbage_01_PhysicsAsset.uasset" 714
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Garbage_01.uasset" 715
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Classic_01_Skeleton.uasset" 716
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Classic_01_PhysicsAsset.uasset" 717
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Classic_01.uasset" 718
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Hover_Skeleton.uasset" 719
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Hover_PhysicsAsset.uasset" 720
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Hover.uasset" 721
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Skeleton.uasset" 722
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_PhysicsAsset.uasset" 723
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01.uasset" 724
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_NeonSigns.uasset" 725
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Neon.uasset" 726
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_09.uasset" 727
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_07.uasset" 728
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_05.uasset" 729
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_04.uasset" 730
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_02.uasset" 731
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_01.uasset" 732
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Billboards.uasset" 733
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Billboards.uasset" 734
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_04.uasset" 735
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_03.uasset" 736
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_02.uasset" 737
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_01.uasset" 738
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_Tall_04.uasset" 739
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_Tall_03.uasset" 740
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_04.uasset" 741
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_03.uasset" 742
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Attachmentl_01.uasset" 743
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Signs.uasset" 744
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs.uasset" 745
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_31.uasset" 746
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_30.uasset" 747
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_27.uasset" 748
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_26.uasset" 749
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_25.uasset" 750
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_23.uasset" 751
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_22.uasset" 752
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_21.uasset" 753
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_19.uasset" 754
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_18.uasset" 755
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_17.uasset" 756
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_16.uasset" 757
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_15.uasset" 758
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_14.uasset" 759
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_13.uasset" 760
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_12.uasset" 761
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_10.uasset" 762
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_08.uasset" 763
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_07.uasset" 764
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_06.uasset" 765
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_05.uasset" 766
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_04.uasset" 767
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_03.uasset" 768
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_02.uasset" 769
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_01.uasset" 770
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_09.uasset" 771
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_08.uasset" 772
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_07.uasset" 773
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_06.uasset" 774
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_05.uasset" 775
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_04.uasset" 776
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_03.uasset" 777
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_02.uasset" 778
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_01.uasset" 779
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WoodenPath_01.uasset" 780
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Window_03.uasset" 781
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_06.uasset" 782
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_05.uasset" 783
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_02.uasset" 784
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_01.uasset" 785
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Wall_Prop_01.uasset" 786
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VRBooth_01.uasset" 787
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Vent_04.uasset" 788
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Vent_02.uasset" 789
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Glass.uasset" 790
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VendingMachine_Soda_01_Glass.uasset" 791
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VendingMachine_Soda_01.uasset" 792
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VendingMachine_01.uasset" 793
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashCan_Lid_01.uasset" 794
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashCan_01.uasset" 795
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashBag_03.uasset" 796
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashBag_02.uasset" 797
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Supplies_01.uasset" 798
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_StripClub_Table_01.uasset" 799
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_StripClub_Sofa_01.uasset" 800
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_StripClub_Chair_01.uasset" 801
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Streetlight_01.uasset" 802
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Stool_01.uasset" 803
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Sidewalk_Pipe_02.uasset" 804
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Security_Scanner_01.uasset" 805
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SciFi_Pad_01.uasset" 806
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_02.uasset" 807
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_01_Outline.uasset" 808
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_01.uasset" 809
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Books_01.uasset" 810
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bench_01.uasset" 811
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Beams_01.uasset" 812
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Beam_02.uasset" 813
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_Plastic_03.uasset" 814
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_Plastic_02.uasset" 815
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_Plastic_01.uasset" 816
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_02.uasset" 817
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bank_Door_01.uasset" 818
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Atm_01.uasset" 819
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Antenna.uasset" 820
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_AirConditioningUnit_02.uasset" 821
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_AirConditioningUnit_01.uasset" 822
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_AirConditioningGrid_01.uasset" 823
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_Planet_Background_01.uasset" 824
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Tree_03.uasset" 825
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Tree_02.uasset" 826
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Tree_01.uasset" 827
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Straight_Half_01_SF.uasset" 828
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Straight_01_SF.uasset" 829
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Raised_01.uasset" 830
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_Half_01_SF.uasset" 831
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_Half_01.uasset" 832
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_02_SF.uasset" 833
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_01_SF.uasset" 834
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_01_SF.uasset" 835
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFi_Road_01.uasset" 836
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Dirt_01.uasset" 837
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Roads.uasset" 838
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_YellowLines_02_SF.uasset" 839
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_YellowLines_01_SF.uasset" 840
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Median_01_SF.uasset" 841
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Lines_01_SF.uasset" 842
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Crossing_02_SF.uasset" 843
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Bare_Half_01_SF.uasset" 844
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Railing_02_Pillar.uasset" 845
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Railing_02.uasset" 846
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_Empty_03.uasset" 847
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_Empty_02.uasset" 848
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_03.uasset" 849
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_02.uasset" 850
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_01.uasset" 851
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_Base_03.uasset" 852
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_02.uasset" 853
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Greeble_Cube_02.uasset" 854
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Grass_Patch_01.uasset" 855
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Wall_05.uasset" 856
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Wall_03.uasset" 857
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Ground_05.uasset" 858
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Ground_04.uasset" 859
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Ground_01.uasset" 860
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Dirt_Mound_Small_02.uasset" 861
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Dirt_Mound_Small_01.uasset" 862
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_Glass_01.uasset" 863
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_Door_Top_01.uasset" 864
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_Door_Bottom_01.uasset" 865
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_01.uasset" 866
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Underpass_01.uasset" 867
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_03.uasset" 868
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_02.uasset" 869
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_01_HologramPods.uasset" 870
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_01.uasset" 871
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_01.uasset" 872
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Shop_Open_01.uasset" 873
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Shack_02.uasset" 874
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Shack_01.uasset" 875
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Security_WatchStation_01.uasset" 876
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_04.uasset" 877
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_03.uasset" 878
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_02.uasset" 879
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_01.uasset" 880
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_05.uasset" 881
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_04.uasset" 882
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_03.uasset" 883
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_02.uasset" 884
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_01.uasset" 885
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Grid_01.uasset" 886
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_07.uasset" 887
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_06.uasset" 888
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_05.uasset" 889
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_04.uasset" 890
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_03.uasset" 891
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_02.uasset" 892
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SatDish_Attach_01.uasset" 893
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SatDish_03.uasset" 894
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SatDish_02.uasset" 895
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_RubbishPile_03.uasset" 896
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_RubbishPile_02.uasset" 897
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_RubbishPile_01.uasset" 898
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_04.uasset" 899
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_03.uasset" 900
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_02.uasset" 901
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_01.uasset" 902
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Bin_01_Lid.uasset" 903
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Bin_01.uasset" 904
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Robotic_Part_04.uasset" 905
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Powerpole_02.uasset" 906
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Powerpole_01.uasset" 907
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Posters_03.uasset" 908
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Posters_02.uasset" 909
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Posters_01.uasset" 910
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Pillar_01.uasset" 911
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Paper_Lantern_02.uasset" 912
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Paper_Lantern_01.uasset" 913
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Paper_Banner_01.uasset" 914
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Noodles_01.uasset" 915
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Monitor_02_Screen.uasset" 916
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Monitor_02.uasset" 917
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Meter_01.uasset" 918
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Medical_Table_01.uasset" 919
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_05.uasset" 920
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_04.uasset" 921
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_02.uasset" 922
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_01.uasset" 923
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketLights_02.uasset" 924
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketLights_01.uasset" 925
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_05.uasset" 926
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_03.uasset" 927
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_02.uasset" 928
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_01.uasset" 929
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCovcer_02.uasset" 930
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_LargeSign_Burger_03_Outline.uasset" 931
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Jar_Hanging_01_Glass.uasset" 932
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Jar_Hanging_01.uasset" 933
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Hologram_Burger_03.uasset" 934
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Hologram_Bottle_01.uasset" 935
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_FoodTray_04.uasset" 936
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_FoodTray_03.uasset" 937
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_FoodTray_02.uasset" 938
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Flags_01.uasset" 939
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Fence_01.uasset" 940
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Dumpster_01.uasset" 941
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_Glass_02.uasset" 942
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_Glass_01.uasset" 943
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_02.uasset" 944
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_01.uasset" 945
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_Chopshop_01.uasset" 946
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_05.uasset" 947
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_02.uasset" 948
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_01.uasset" 949
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Detail_01.uasset" 950
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_DeadZub_04.uasset" 951
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_DeadZub_03.uasset" 952
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_DeadZub_02.uasset" 953
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cylinder_02.uasset" 954
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cylinder_01.uasset" 955
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_Large_01.uasset" 956
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_03.uasset" 957
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_01_Lid.uasset" 958
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_01.uasset" 959
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_ControlPanel_01.uasset" 960
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_ChargingStation_01.uasset" 961
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Carpet_Mat_01.uasset" 962
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cage_03.uasset" 963
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cage_02.uasset" 964
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cage_01.uasset" 965
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cables_01.uasset" 966
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cable_Crossing_Rail_01.uasset" 967
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cable_Crossing_Pillar_01.uasset" 968
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cable_Crossing_Machine_01.uasset" 969
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bridge_01.uasset" 970
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Box_Supplies_01.uasset" 971
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Box_RobotParts_01.uasset" 972
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Box_Empty_01.uasset" 973
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_03.uasset" 974
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_BlinkingLight.uasset" 975
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Cinematic/IntroSequence.uasset" 976
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Hover_Bike_01_Skeleton.uasset" 977
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Hover_Bike_01_PhysicsAsset.uasset" 978
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Hover_Bike_01.uasset" 979
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/CarRails.uasset" 980
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_01.uasset" 981
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Corner_03.uasset" 982
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Corner_02.uasset" 983
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Corner_01.uasset" 984
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Roof_Pagoda_02.uasset" 985
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Roof_Pagoda_01.uasset" 986
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Raised_02.uasset" 987
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Raised_01.uasset" 988
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_04.uasset" 989
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_03.uasset" 990
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_02.uasset" 991
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_01.uasset" 992
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_08.uasset" 993
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_07.uasset" 994
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_06.uasset" 995
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_05.uasset" 996
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_01.uasset" 997
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_06.uasset" 998
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_05.uasset" 999
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_04.uasset" 1000
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_03.uasset" 1001
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_02.uasset" 1002
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_01.uasset" 1003
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_LandingPad_01.uasset" 1004
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Industrial_02.uasset" 1005
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Industrial_01.uasset" 1006
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_FoodHole_01.uasset" 1007
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_City_Wall_Tower_01.uasset" 1008
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_City_Wall_01.uasset" 1009
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Chopshop_Interior_01.uasset" 1010
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Chopshop_01.uasset" 1011
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Bank_01_Glass.uasset" 1012
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Bank_01.uasset" 1013
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonScifi_Background_Building_Emissive.uasset" 1014
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_01.uasset" 1015
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_09.uasset" 1016
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_08.uasset" 1017
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_07.uasset" 1018
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_06.uasset" 1019
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_05.uasset" 1020
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_04.uasset" 1021
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_03.uasset" 1022
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_02.uasset" 1023
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_01.uasset" 1024
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Lrg_03.uasset" 1025
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Lrg_02.uasset" 1026
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Lrg_01.uasset" 1027
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Advanced_Doorway_01.uasset" 1028
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Advanced_02.uasset" 1029
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Advanced_01.uasset" 1030
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_03.uasset" 1031
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_02.uasset" 1032
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_E.uasset" 1033
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_04.uasset" 1034
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_E.uasset" 1035
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_D.uasset" 1036
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_D.uasset" 1037
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_C.uasset" 1038
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_C.uasset" 1039
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_B.uasset" 1040
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_B.uasset" 1041
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_A.uasset" 1042
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_A.uasset" 1043
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_E.uasset" 1044
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_03.uasset" 1045
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_E.uasset" 1046
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_A.uasset" 1047
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_A.uasset" 1048
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_E.uasset" 1049
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_02.uasset" 1050
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_E.uasset" 1051
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_D.uasset" 1052
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_D.uasset" 1053
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_C.uasset" 1054
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_C.uasset" 1055
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_B.uasset" 1056
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_B.uasset" 1057
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_F.uasset" 1058
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_F.uasset" 1059
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_D.uasset" 1060
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_D.uasset" 1061
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_C.uasset" 1062
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_C.uasset" 1063
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Transparent.uasset" 1064
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_B.uasset" 1065
-"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_B.uasset" 1066
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_LightBar_01.uasset" 689
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Disc_01.uasset" 690
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cylinder_01_Lid.uasset" 691
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Couch_01.uasset" 692
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_ControlPanel_02.uasset" 693
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cables_Ceiling_01.uasset" 694
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Monk_Male_01.uasset" 695
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Medical_Male_01.uasset" 696
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Garbage_Male_01.uasset" 697
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_CyborgNinja_01.uasset" 698
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_CyberPunk_Male_01.uasset" 699
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Cyber_Female_01.uasset" 700
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Augmented_Male_01.uasset" 701
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Characters/SK_Character_Alien_Male_01.uasset" 702
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Security_WatchStation_01_Glass.uasset" 703
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_Skeleton.uasset" 704
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01_PhysicsAsset.uasset" 705
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Retro_01.uasset" 706
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Garbage_01_Skeleton.uasset" 707
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Garbage_01_PhysicsAsset.uasset" 708
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Garbage_01.uasset" 709
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Classic_01_Skeleton.uasset" 710
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Classic_01_PhysicsAsset.uasset" 711
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Classic_01.uasset" 712
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Hover_Skeleton.uasset" 713
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Hover_PhysicsAsset.uasset" 714
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Hover.uasset" 715
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_Skeleton.uasset" 716
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01_PhysicsAsset.uasset" 717
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Armored_Truck_01.uasset" 718
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_NeonSigns.uasset" 719
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Neon.uasset" 720
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_09.uasset" 721
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_07.uasset" 722
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_05.uasset" 723
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_04.uasset" 724
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_02.uasset" 725
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Neon_01.uasset" 726
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Billboards.uasset" 727
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Billboards.uasset" 728
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_04.uasset" 729
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_03.uasset" 730
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_02.uasset" 731
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Large_01.uasset" 732
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_Tall_04.uasset" 733
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_Tall_03.uasset" 734
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_04.uasset" 735
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Border_03.uasset" 736
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Billboard_Attachmentl_01.uasset" 737
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Signs.uasset" 738
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs.uasset" 739
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_31.uasset" 740
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_30.uasset" 741
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_27.uasset" 742
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_26.uasset" 743
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_25.uasset" 744
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_23.uasset" 745
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_22.uasset" 746
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_21.uasset" 747
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_19.uasset" 748
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_18.uasset" 749
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_17.uasset" 750
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_16.uasset" 751
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_15.uasset" 752
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_14.uasset" 753
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_13.uasset" 754
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bank_Booth_Pillar_01.uasset" 755
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_Icon_Gun.uasset" 756
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Wall_Generic_01.uasset" 757
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_Floating_Platform_01.uasset" 758
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_Base_02.uasset" 759
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_LargeSign_Burger_03_Outline.uasset" 760
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Glass.uasset" 761
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Jar_Hanging_01_Glass.uasset" 762
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Jar_Hanging_01.uasset" 763
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Hologram_Burger_03.uasset" 764
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Hologram_Bottle_01.uasset" 765
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_FoodTray_04.uasset" 766
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_FoodTray_03.uasset" 767
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_FoodTray_02.uasset" 768
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Flags_01.uasset" 769
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Fence_01.uasset" 770
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Dumpster_01.uasset" 771
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_Glass_02.uasset" 772
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_Glass_01.uasset" 773
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_02.uasset" 774
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Drink_01.uasset" 775
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_Chopshop_01.uasset" 776
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_05.uasset" 777
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_02.uasset" 778
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Door_01.uasset" 779
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Detail_01.uasset" 780
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_DeadZub_04.uasset" 781
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_DeadZub_03.uasset" 782
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_DeadZub_02.uasset" 783
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cylinder_02.uasset" 784
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cylinder_01.uasset" 785
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_Large_01.uasset" 786
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_03.uasset" 787
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_01_Lid.uasset" 788
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Crate_01.uasset" 789
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_ControlPanel_01.uasset" 790
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_ChargingStation_01.uasset" 791
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Carpet_Mat_01.uasset" 792
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cage_03.uasset" 793
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cage_02.uasset" 794
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cage_01.uasset" 795
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cables_01.uasset" 796
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cable_Crossing_Rail_01.uasset" 797
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cable_Crossing_Pillar_01.uasset" 798
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Cable_Crossing_Machine_01.uasset" 799
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bridge_01.uasset" 800
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Box_Supplies_01.uasset" 801
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Box_RobotParts_01.uasset" 802
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Box_Empty_01.uasset" 803
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_03.uasset" 804
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_02.uasset" 805
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_01_Outline.uasset" 806
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bottle_01.uasset" 807
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Books_01.uasset" 808
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bench_01.uasset" 809
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Beams_01.uasset" 810
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Beam_02.uasset" 811
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_Plastic_03.uasset" 812
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_Plastic_02.uasset" 813
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_Plastic_01.uasset" 814
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Barrier_02.uasset" 815
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Bank_Door_01.uasset" 816
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Atm_01.uasset" 817
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Antenna.uasset" 818
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_AirConditioningUnit_02.uasset" 819
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_AirConditioningUnit_01.uasset" 820
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_AirConditioningGrid_01.uasset" 821
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Misc/SM_Planet_Background_01.uasset" 822
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Tree_03.uasset" 823
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Tree_02.uasset" 824
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Tree_01.uasset" 825
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Straight_Half_01_SF.uasset" 826
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Straight_01_SF.uasset" 827
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Raised_01.uasset" 828
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_Half_01_SF.uasset" 829
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_Half_01.uasset" 830
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_02_SF.uasset" 831
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_Corner_01_SF.uasset" 832
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Sidewalk_01_SF.uasset" 833
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonSciFi_Road_01.uasset" 834
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_Dirt_01.uasset" 835
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Roads.uasset" 836
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_YellowLines_02_SF.uasset" 837
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_YellowLines_01_SF.uasset" 838
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Median_01_SF.uasset" 839
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Lines_01_SF.uasset" 840
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Crossing_02_SF.uasset" 841
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Road_Bare_Half_01_SF.uasset" 842
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Railing_02_Pillar.uasset" 843
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Railing_02.uasset" 844
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_Empty_03.uasset" 845
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_12.uasset" 846
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_10.uasset" 847
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_08.uasset" 848
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_07.uasset" 849
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_06.uasset" 850
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_05.uasset" 851
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_04.uasset" 852
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_03.uasset" 853
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_02.uasset" 854
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_Ad_01.uasset" 855
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_09.uasset" 856
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_08.uasset" 857
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_07.uasset" 858
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_06.uasset" 859
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_05.uasset" 860
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_04.uasset" 861
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_03.uasset" 862
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_02.uasset" 863
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Signs/SM_Sign_01.uasset" 864
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WoodenPath_01.uasset" 865
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Window_03.uasset" 866
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_06.uasset" 867
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_05.uasset" 868
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_02.uasset" 869
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_WallAttach_Electronics_01.uasset" 870
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Wall_Prop_01.uasset" 871
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VRBooth_01.uasset" 872
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Vent_04.uasset" 873
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Vent_02.uasset" 874
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VendingMachine_Soda_01_Glass.uasset" 875
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VendingMachine_Soda_01.uasset" 876
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_VendingMachine_01.uasset" 877
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashCan_Lid_01.uasset" 878
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashCan_01.uasset" 879
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashBag_03.uasset" 880
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_TrashBag_02.uasset" 881
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Supplies_01.uasset" 882
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_StripClub_Table_01.uasset" 883
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_StripClub_Sofa_01.uasset" 884
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_StripClub_Chair_01.uasset" 885
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Streetlight_01.uasset" 886
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Stool_01.uasset" 887
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Sidewalk_Pipe_02.uasset" 888
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Security_Scanner_01.uasset" 889
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SciFi_Pad_01.uasset" 890
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SatDish_Attach_01.uasset" 891
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SatDish_03.uasset" 892
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_SatDish_02.uasset" 893
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_RubbishPile_03.uasset" 894
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_RubbishPile_02.uasset" 895
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_RubbishPile_01.uasset" 896
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_04.uasset" 897
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_03.uasset" 898
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_02.uasset" 899
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Paper_01.uasset" 900
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Bin_01_Lid.uasset" 901
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Rubbish_Bin_01.uasset" 902
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Robotic_Part_04.uasset" 903
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Powerpole_02.uasset" 904
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Powerpole_01.uasset" 905
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Posters_03.uasset" 906
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Posters_02.uasset" 907
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Posters_01.uasset" 908
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Pillar_01.uasset" 909
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Paper_Lantern_02.uasset" 910
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Paper_Lantern_01.uasset" 911
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Paper_Banner_01.uasset" 912
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Noodles_01.uasset" 913
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Monitor_02_Screen.uasset" 914
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Monitor_02.uasset" 915
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Meter_01.uasset" 916
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_Medical_Table_01.uasset" 917
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_05.uasset" 918
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_04.uasset" 919
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_02.uasset" 920
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketTable_01.uasset" 921
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketLights_02.uasset" 922
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketLights_01.uasset" 923
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_05.uasset" 924
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_03.uasset" 925
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_02.uasset" 926
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCover_01.uasset" 927
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Props/SM_Prop_MarketCovcer_02.uasset" 928
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/T_PolygonScifi_Background_Building_Emissive.uasset" 929
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_01.uasset" 930
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_03.uasset" 931
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_02.uasset" 932
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_01.uasset" 933
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Lrg_03.uasset" 934
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Lrg_02.uasset" 935
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Lrg_01.uasset" 936
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Advanced_Doorway_01.uasset" 937
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Advanced_02.uasset" 938
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Advanced_01.uasset" 939
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_03.uasset" 940
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_02.uasset" 941
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_E.uasset" 942
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_04.uasset" 943
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_E.uasset" 944
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_D.uasset" 945
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_D.uasset" 946
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_C.uasset" 947
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_C.uasset" 948
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_B.uasset" 949
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_B.uasset" 950
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_A.uasset" 951
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_A.uasset" 952
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_E.uasset" 953
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_03.uasset" 954
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_E.uasset" 955
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_A.uasset" 956
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_A.uasset" 957
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_E.uasset" 958
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_02.uasset" 959
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_E.uasset" 960
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_D.uasset" 961
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_D.uasset" 962
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_C.uasset" 963
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_C.uasset" 964
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_B.uasset" 965
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_B.uasset" 966
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_F.uasset" 967
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_F.uasset" 968
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_D.uasset" 969
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_D.uasset" 970
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_C.uasset" 971
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_C.uasset" 972
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Transparent.uasset" 973
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_B.uasset" 974
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_B.uasset" 975
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/Neon_MAP_BuiltData.uasset" 976
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/BP_BlinkingLight.uasset" 977
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Cinematic/IntroSequence.uasset" 978
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_Empty_02.uasset" 979
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_03.uasset" 980
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_02.uasset" 981
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Hedge_01.uasset" 982
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_Base_03.uasset" 983
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Ground_Tile_02.uasset" 984
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Greeble_Cube_02.uasset" 985
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Grass_Patch_01.uasset" 986
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Wall_05.uasset" 987
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Wall_03.uasset" 988
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Ground_05.uasset" 989
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Ground_04.uasset" 990
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Graffiti_Ground_01.uasset" 991
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Dirt_Mound_Small_02.uasset" 992
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Environments/SM_Env_Dirt_Mound_Small_01.uasset" 993
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_Glass_01.uasset" 994
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_Door_Top_01.uasset" 995
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_Door_Bottom_01.uasset" 996
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Warehouse_01.uasset" 997
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Underpass_01.uasset" 998
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_03.uasset" 999
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_02.uasset" 1000
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_01_HologramPods.uasset" 1001
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_Interior_01.uasset" 1002
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_StripClub_01.uasset" 1003
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Shop_Open_01.uasset" 1004
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Shack_02.uasset" 1005
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Shack_01.uasset" 1006
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Security_WatchStation_01.uasset" 1007
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_04.uasset" 1008
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_03.uasset" 1009
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_02.uasset" 1010
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Window_01.uasset" 1011
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_05.uasset" 1012
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_04.uasset" 1013
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_03.uasset" 1014
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_02.uasset" 1015
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Wall_01.uasset" 1016
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Grid_01.uasset" 1017
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_07.uasset" 1018
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_06.uasset" 1019
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_05.uasset" 1020
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_04.uasset" 1021
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_03.uasset" 1022
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_02.uasset" 1023
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Door_01.uasset" 1024
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Corner_03.uasset" 1025
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Corner_02.uasset" 1026
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Section_Corner_01.uasset" 1027
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Roof_Pagoda_02.uasset" 1028
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Roof_Pagoda_01.uasset" 1029
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Raised_02.uasset" 1030
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Raised_01.uasset" 1031
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_04.uasset" 1032
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_03.uasset" 1033
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_02.uasset" 1034
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Power_01.uasset" 1035
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_08.uasset" 1036
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_07.uasset" 1037
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_06.uasset" 1038
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_05.uasset" 1039
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_Part_01.uasset" 1040
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_06.uasset" 1041
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_05.uasset" 1042
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_04.uasset" 1043
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_03.uasset" 1044
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_02.uasset" 1045
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Large_01.uasset" 1046
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_LandingPad_01.uasset" 1047
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Industrial_02.uasset" 1048
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Industrial_01.uasset" 1049
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_FoodHole_01.uasset" 1050
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_City_Wall_Tower_01.uasset" 1051
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_City_Wall_01.uasset" 1052
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Chopshop_Interior_01.uasset" 1053
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Chopshop_01.uasset" 1054
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Bank_01_Glass.uasset" 1055
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Bank_01.uasset" 1056
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_09.uasset" 1057
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_08.uasset" 1058
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_07.uasset" 1059
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_06.uasset" 1060
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_05.uasset" 1061
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Buildings/SM_Bld_Background_Med_04.uasset" 1062
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Hover_Bike_01_Skeleton.uasset" 1063
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Hover_Bike_01_PhysicsAsset.uasset" 1064
+"../../../../../../../Ue4 Projects/NeonGold/Content/PolygonScifi/Meshes/Vehicles/SK_Veh_Hover_Bike_01.uasset" 1065
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/CarRails.uasset" 1066
 "../../../../../../../Ue4 Projects/NeonGold/Content/MorroMotion/Animations/Everyday_MoCap_01/Anim_Sitting_Upset_01.uasset" 1067
 "../../../../../../../Ue4 Projects/NeonGold/Content/MorroMotion/Animations/Everyday_MoCap_01/Anim_Sitting_Talking_03.uasset" 1068
 "../../../../../../../Ue4 Projects/NeonGold/Content/MorroMotion/Animations/Everyday_MoCap_01/Anim_Sitting_Talking_01.uasset" 1069
@@ -1081,25 +1081,25 @@
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Reverbs/Rain_Underpassd.uasset" 1080
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Conversation/Taxi_convo.uasset" 1081
 "../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Ambiance/Seam_release.uasset" 1082
-"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Lie_loop.uasset" 1083
-"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Drink_loop.uasset" 1084
-"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Caress_sit.uasset" 1085
-"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Caress_lie.uasset" 1086
-"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Agression_loop.uasset" 1087
-"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/SceneCamera/BP_SceneCam.uasset" 1088
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Resturant_ambiance.uasset" 1089
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/new_neon_music.uasset" 1090
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Conversation_2.uasset" 1091
-"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Conversation_1.uasset" 1092
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1093
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1094
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1095
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1096
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1097
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1098
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1099
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1100
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1101
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Resturant_ambiance.uasset" 1083
+"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Lie_loop.uasset" 1084
+"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Drink_loop.uasset" 1085
+"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Caress_sit.uasset" 1086
+"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Caress_lie.uasset" 1087
+"../../../../../../../Ue4 Projects/NeonGold/Content/LowPoly_Kitten/Animations/Anim_LowPoly_Kitten_Agression_loop.uasset" 1088
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/new_neon_music.uasset" 1089
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Conversation_2.uasset" 1090
+"../../../../../../../Ue4 Projects/NeonGold/Content/FMOD/Events/Conversation_1.uasset" 1091
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1092
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1093
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1094
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1095
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1096
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1097
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1098
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1099
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1100
+"../../../../../../../Ue4 Projects/NeonGold/Content/NEON/BP/SceneCamera/BP_SceneCam.uasset" 1101
 "../../../../../../../Ue4 Projects/NeonGold/Content/NEON/Map/Neon_MAP.umap" 1102
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1103
 "../../../Engine/Content/Maps/Entry.umap" 1104
